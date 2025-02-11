@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sujit DHotre</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A highly skilled and passionate Full Stack Developer from India, specializing in both front-end and back-end technologies. With expertise in crafting dynamic, responsive user interfaces and building robust server-side applications, I deliver end-to-end solutions that are both efficient and scalable</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sujitdhotre&label=Profile%20views&color=0e75b6&style=flat" alt="sujitdhotre" /> </p>
 
